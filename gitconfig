@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = regina.arnst@yahoo.com
+	name = Regina Arnst
